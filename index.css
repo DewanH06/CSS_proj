@@ -1,0 +1,13 @@
+.nav-link{
+    color:orange;
+    text_decoration: none;
+}
+
+main{
+    max-width: 600px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
